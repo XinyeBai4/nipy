@@ -20,7 +20,7 @@ import numpy as np
 from numpy.linalg import pinv
 
 from scipy import stats
-from scipy.misc import factorial
+from scipy.special import factorial
 from scipy.special import gamma, gammaln, beta, hermitenorm
 
 # Legacy repr printing from numpy.
